@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Jin, A Senior Fullstack Engineer from <b>China.</b>
+<p>Welcome to my page! </br>  A Senior Fullstack Engineer </b>
 <h3>My skills are</h3>
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-5849BE?style=flat-square&logo=Javascript&logoColor=white" />
@@ -28,11 +28,11 @@
 
 Hey 👋🏻,
 
-I am a senior full-stack engineer with 8 years of hands on experience from China.
+I am a senior full-stack engineer with 8 years of hands on experience.
 
 My Proficient Skills:
 
 - Frontend: React(JS/TS) & Redux(Saga/Thunk/Slice/Mobx), Next.js, Vue.js, Angular.js
-- Backend: Django & Django Restframework, Flask, Node.js, Express.js, Laravel, Java, Spring Boot
-- Mobile: React Native, Ionic, Android(Java)
-- Others: Web Scraping and automation, Data Science and Machine Learning
+- Backend: Django & Django Restframework, Flask, Node.js, Express.js, FeathersJS, NestJS, Laravel, 
+- Mobile: React Native, Ionic
+- Others: Data Science and Machine Learning
