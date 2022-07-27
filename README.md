@@ -35,4 +35,4 @@ My Proficient Skills:
 - Frontend: React(JS/TS) & Redux(Saga/Thunk/Slice/Mobx), Next.js, Vue.js, Angular.js
 - Backend: Django & Django Restframework, Flask, Node.js, Express.js, FeathersJS, NestJS, Laravel, 
 - Mobile: React Native, Ionic
-- Others: Data Science and Machine Learning
+- Others: Data Science and Machine Learning, GraphQL, Firebase, AWS, GCP
