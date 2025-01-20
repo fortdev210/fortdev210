@@ -33,7 +33,8 @@ I am a senior full-stack engineer with 8 years of hands on experience.
 My Proficient Skills:
 
 - Frontend: React(JS/TS) & Redux(Saga/Thunk/Slice/Mobx), Next.js, Vue.js, Angular/AngularJS
-- Backend: Python/Django & Django Restframework/Flask, NodeJS/ExpressJS/NestJS/FeathersJS, Php/Laravel, 
+- Backend: Python/Django & Django Restframework/FastApi, NodeJS/ExpressJS/NestJS/FeathersJS, Php/Laravel, 
 - Mobile: React Native, Ionic
 - Others: Data Science and Machine Learning, GraphQL, Firebase, AWS, GCP, Snowflake, Matillion
+- Smart Contract/Solidity
 - No Code Framewokr: Bubble.io
