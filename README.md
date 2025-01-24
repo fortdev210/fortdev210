@@ -24,17 +24,14 @@
   <img alt="Java" src="https://img.shields.io/badge/-Java-F7B93E?style=flat-square&logo=Java&logoColor=white" />
 </p>
 
-## Senior Full-Stack Engineer
+## Full-Stack Engineer && Machine Learning Engineer
 
 Hey 👋🏻,
 
-I am a senior full-stack engineer with 8 years of hands on experience.
+I am a senior full-stack engineer and machine learning engineer with 9 years of hands on experience.
 
 My Proficient Skills:
-
-- Frontend: React(JS/TS) & Redux(Saga/Thunk/Slice/Mobx), Next.js, Vue.js, Angular/AngularJS
-- Backend: Python/Django & Django Restframework/FastApi, NodeJS/ExpressJS/NestJS/FeathersJS, Php/Laravel, 
+- Machine Learning: Python/Pandas/Scikit-learn/Tensorflow/PyTorch/OpenCV/NLP, Snowflake, Matillion
+- Web: Node/Express/NestJS, Python/Django/FastAPI, C#/ASP.NET, PHP/Laravel, React/NextJS, Vue/Nuxt, Angular, GraphQL, AWS, Firebase, GCP, Blockchain/Smart Contract 
 - Mobile: React Native, Ionic
-- Others: Data Science and Machine Learning, GraphQL, Firebase, AWS, GCP, Snowflake, Matillion
-- Smart Contract/Solidity
 - No Code Framewokr: Bubble.io
