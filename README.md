@@ -28,10 +28,13 @@
 
 Hey 👋🏻,
 
-I am a senior full-stack engineer and machine learning engineer with 9 years of hands on experience.
+I am a senior full-stack engineer and machine learning engineer with 9 years of hands-on experience.
 
 My Proficient Skills:
+- Backend: Node.js/Express/NestJS/Prisma/TypeORM/GraphQL, Python/Django/DRF/FastAPI, Php/Laravel, C#/ASP.NET
+- Frontend: Typescript/React/NextJS, Vue/Nuxt, Angular(13+), TailwindCSS, Ant Design, MUI...
 - Machine Learning: Python/Pandas/Scikit-learn/Tensorflow/PyTorch/OpenCV/NLP, Snowflake, Matillion
-- Web: Node/Express/NestJS, Python/Django/FastAPI, C#/ASP.NET, PHP/Laravel, React/NextJS, Vue/Nuxt, Angular, GraphQL, AWS, Firebase, GCP, Blockchain/Smart Contract 
+- Experience in Blockchain: Web3, Smart Contract, Solidity
 - Mobile: React Native, Ionic
 - No Code Framewokr: Bubble.io
+- Cloud Services: AWS(dynamodb, sqs, sns, s3, ec2, ecs, lambda, elastic search), Firebase, Azure, GCP, Render.com, Vercel, Heroku
